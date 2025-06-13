@@ -1,0 +1,90 @@
+Kind: captions
+Language: es
+buenos días vamos a hacer un tour sobre
+nuestra página web la enciclopedia
+médica de Metline para empezar está
+nuestra página de inicio que
+explicaremos a continuación pero para
+empezar aquí en Ver tenemos diferentes
+estilos que pueda adoptar nuestra página
+para convertirse más accesible y ayudar
+a esas personas que tengan ciertos
+problemas a la hora
+de visualizar esta página webcop por
+ejemplo tenemos el estilo principal que
+es el que vemos actualmente modo noche
+alto contraste uno de un texto con mayor
+tamaño y este que mezcla el de alto
+contraste con un texto de mayor tamaño
+por ejemplo si probamos este vemos que
+los fondos son de otros colores más
+llamativos y tenemos una letra de mayor
+tamaño volviendo a nuestro estilo
+principal vamos a explicar nuestra
+página aquí tenemos para buscar en la
+enciclopedia donde tenemos
+ciertos espacios que podemos rellenar
+para hacer una búsqueda aquí tenemos
+nuestra ruta de migas de pan a través de
+la cual si clicamos en inicio podemos
+volver a la página de inicio otra forma
+para buscar enfermedades son con las
+letras que podemos ver aquí a
+continuación que por ejemplo si pulsamos
+en la A nos dice dos enfermedades
+asociadas a esta letra como por ejemplo
+el Alzheimer y aquí tenemos información
+respecto a esta enfermedad y si hacemos
+clic sobre el logo volvemos a nuestra
+página de inicio si vamos a una página
+que no tiene asociada ninguna letra
+ninguna enfermedad perdón como por
+ejemplo puede ser la Q nos lleva esta
+página de error y podemos volver a
+nuestra página de inicio clicando aquí
+aquí tenemos artículos sobre ciertas
+enfermedades como puede ser la celiaquía
+donde esta imagen es un mapa interactivo
+ya que depende de la zona donde pulsemos
+nos llevará algunos artículos u otros
+relacionados con la zona en la que
+hayamos
+seleccionado igual otro artículo sobre
+la enfermedad del Parkinson aquí podemos
+accedir a otros artículos con mayor
+información aquí datos curiosos y aquí
+enlaces útiles
+a a ciertas páginas a las que hemos
+hecho referencia en nuestra web como por
+ejemplo la la Organización Mundial de la
+Salud aquí podemos ver documentos
+electrónicos de forma accesible y no
+inaccesible tanto en formato PDF como
+Word para ver estas diferencias y todo
+lo que hemos hecho posible para mejorar
+la accesibilidad de esta página
+web aquí tenemos una tabla con las
+enfermedades más comunes de España en el
+año 2024
+y aquí ciertos cuestionarios y ciertos
+formularios para contactar con nosotros
+aquí en el footer como podemos ver
+tenemos un mapa del sitio
+web donde nos son enlaces directos a
+nuestras
+páginas y podemos encontrar el de la
+página el enlace hacia la página de
+accesibilidad donde podemos ver la
+declaración de accesibilidad todas las
+características que hemos implementado
+para que sea más fácil para ciertas
+personas que tengan diferentes
+dificultades como puede ser las que ya
+hemos explicado los diferentes estilos
+la compatibilidad con formatos
+accesibles que son los documentos que ya
+hemos dicho
+anteriormente
+y más cosas que están explicadas en esta
+página esperemos que este pequeño tour
+les haya servido de ayuda

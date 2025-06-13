@@ -1,0 +1,116 @@
+Kind: captions
+Language: es
+buenos días vamos a hacer un tour sobre
+nuestra página web la enciclopedia
+médica de Medline. 
+Para empezar esta es
+nuestra página de inicio (se muestra la pagina de la
+pagina de inicio con el logo en la parte superior y justo
+debajo pone enciclopedia medica)
+que explicaremos a continuación pero para
+empezar aquí en Ver tenemos diferentes
+estilos 
+( se  muestra un desplegable que aparece de la 
+pestaña de ves -> estilos)
+que pueda adoptar nuestra página
+para convertirse más accesible y ayudar
+a esas personas que tengan ciertos
+problemas a la hora
+de visualizar esta página web como por
+ejemplo tenemos el estilo principal que
+es el que vemos actualmente (un estilo en colores que combinan
+con el logo como el morado, naranja y lila), el modo noche,
+alto contraste, uno de un texto con mayor
+tamaño y este que mezcla el de alto
+contraste con un texto de mayor tamaño
+por ejemplo si probamos este vemos que
+los fondos son de otros colores más
+llamativos y tenemos una letra de mayor
+tamaño. 
+Volviendo a nuestro estilo
+principal vamos a explicar nuestra
+página aquí tenemos para buscar en la
+enciclopedia (se puede ver en el indice un apartado
+donde pone busca en la enciclopedia junto con el icono 
+de una lupa y al hacer click se abre una nueva
+ventana donde podemos ver un formulario a rellenar
+con campos como descripción, causas, sintomas, pruebas y examenes,
+tratamiento y expectativas) donde tenemos
+ciertos espacios que podemos rellenar
+para hacer una búsqueda aquí tenemos
+nuestra ruta de migas de pan a través de
+la cual si clicamos en inicio podemos
+volver a la página de inicio. 
+Otra forma
+para buscar enfermedades son con las
+letras que podemos ver aquí a
+continuación (se muestran todas las letras del abecedario
+sobre un fondo naranja debajo del buscador) que por ejemplo si pulsamos
+en la A nos dice dos enfermedades
+asociadas a esta letra como por ejemplo
+el Alzheimer y aquí tenemos información
+respecto a esta enfermedad y si hacemos
+clic sobre el logo volvemos a nuestra
+página de inicio. 
+Si vamos a una página
+que no tiene asociada
+ninguna enfermedad como por
+ejemplo puede ser la Q nos lleva esta
+página de error y podemos volver a
+nuestra página de inicio clicando aquí (al final de la pagina de error
+pone para volver a la página de inicio hacer clicl aquí).
+Aquí tenemos artículos sobre ciertas
+enfermedades como puede ser la celiaquía
+donde esta imagen (imagen de parte de los organos que forman parte
+del aparato digestivo como pueden ser 
+el intestino delgado, grueso y el colon)
+es un mapa interactivo
+ya que depende de la zona donde pulsemos
+nos llevará a algunos artículos u otros
+relacionados con la zona en la que
+hayamos seleccionado. Igual otro artículo sobre
+la enfermedad del Parkinson aquí (enlace a un articulo sobre
+más información del parkinson) podemos
+acceder a otros artículos con mayor
+información. 
+Aquí (justo debajo de los articulos de interés)
+encontramos datos curiosos y aquí (justo debajo de los
+datos curiosos)
+enlaces útiles a ciertas páginas a las que hemos
+hecho referencia en nuestra web como por
+ejemplo la la Organización Mundial de la
+Salud. También podemos ver documentos
+electrónicos de forma accesible y no
+inaccesible tanto en formato PDF como
+Word para ver estas diferencias y todo
+lo que hemos hecho posible para mejorar
+la accesibilidad de esta página
+web. También podemos ver tenemos una tabla con las
+enfermedades más comunes de España en el
+año 2024 (se muestra infromación como la causa,
+sintomas, tratamiento y prevención sobre enfermedades 
+del sistema circulatorio, tumores, hepatitis A,
+enferemdades neurologicas y reumaticas) 
+junto con ciertos cuestionarios y ciertos
+formularios para contactar con nosotros.
+En el footer como podemos ver
+tenemos un mapa del sitio
+web (enlace que nos lleva a una 
+página con enlaces directos a todas nuestras
+secciones de la págona)
+donde nos son enlaces directos a nuestras
+páginas y podemos encontrar el enlace hacia la página de
+accesibilidad donde podemos ver la
+declaración de accesibilidad, todas las
+características que hemos implementado
+para que sea más fácil para ciertas
+personas que tengan diferentes
+dificultades como puede ser las que ya
+hemos explicado los diferentes estilos,
+la compatibilidad con formatos
+accesibles que son los documentos que ya
+hemos dicho
+anteriormente
+y más cosas que están explicadas en esta
+página esperemos que este pequeño tour
+les haya servido de ayuda
