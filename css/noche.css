@@ -1,0 +1,150 @@
+:root {
+    --color-principal: #1e90ff;
+    --color-fondo: #121212;
+    --color-titulo: #ffcc00;
+    --color-texto: #e0e0e0;
+    --color-hover: #ffcc00;
+    --color-footer: #333333;
+    --color-footer-texto: #ffffff;
+    --color-foco: #1e90ff;
+    --color-fondo-foco: rgba(30, 144, 255, 0.2);
+    --color-titulo-articulo: #c5a8e8;
+}
+
+body {
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    font-family: 'Open Sans', sans-serif;
+}
+
+header, footer, nav, h2, h3 {
+    background-color: var(--color-footer);
+    color: var(--color-footer-texto);
+}
+
+header img {
+    filter: brightness(0.8);
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-principal);
+    padding: 10px;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--color-hover);
+}
+
+a:focus, button:focus {
+    outline: 3px solid var(--color-foco);
+    background-color: var(--color-fondo-foco);
+    border-radius: 4px;
+}
+
+footer a {
+    color: var(--color-footer-texto);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: var(--color-hover);
+}
+
+form {
+    background-color: #1f1f1f;
+    color: var(--color-texto);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+input, select, textarea {
+    background-color: #333333;
+    color: var(--color-texto);
+    border: 1px solid #444444;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: var(--color-principal);
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+    background-color: var(--color-hover);
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: var(--color-foco);
+    background-color: var(--color-fondo-foco);
+}
+
+#temas-destacados article {
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    border-color: #444444;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3 {
+    color: var(--color-titulo);
+}
+
+h1 a, h2 a, h3 a {
+    color: var(--color-titulo-articulo);
+}
+
+h1 a:hover, h2 a:hover, h3 a:hover {
+    color: var(--color-hover);
+}
+
+.table, table {
+    background-color: #1a1a1a;
+    color: white;
+    border: 1px solid #007bff;
+}
+
+thead th, tfoot th, caption {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9));
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #333333;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #1a1a1a;
+}
+
+tbody tr:hover {
+    background-color: #444444;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:focus {
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+}
+
+button:active {
+    background-color: #004085;
+    transform: scale(0.95);
+}
