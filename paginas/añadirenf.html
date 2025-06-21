@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Enciclopedia Ilustrada de la Salud</title>
+    <link rel="stylesheet" href="../css/estilo.css" title="Estilo principal">
+    <link rel="alternate stylesheet" href="../css/noche.css" title="Modo noche">
+    <link rel="alternate stylesheet" href="../css/contraste.css" title="Alto contraste">
+    <link rel="alternate stylesheet" href="../css/grande.css" title="Texto grande">
+    <link rel="alternate stylesheet" href="../css/contraste-grande.css" title="Contraste + grande">
+    <link rel="stylesheet" href="../css/print.css" media="print">
+</head>
+<body>
+    <a href="#contenido-principal" class="saltar-a-contenido">Saltar al contenido</a>
+    <header>
+        <a href="../index.html">
+            <img src="../imagenes/logo.jpg" alt="pagina principal">
+          </a>
+            <h1>Enciclopedia Médica</h1>
+    </header>
+    <nav aria-label="breadcrumb">
+        <p>
+          <a href="../index.html">Inicio</a>
+          <span class="breadcrumb-actual">Añadir enfermedad</span>
+        </p>
+      </nav>
+    
+    <main>
+        <h1>Formulario de solicitud para añadir una enfermedad</h1>
+        <p> Los campos indicados con "*" deben ser completados por el usuario de forma obligatoria</p>
+
+        <form action="Eenviado.html" method="post">
+            <label for="nombre-enfermedad"> 🩺 Nombre de la Enfermedad: *</label>
+            <input type="text" id="nombre-enfermedad" name="nombre-enfermedad" placeholder="Ejemplo: Enfermedad X" required>
+
+            <p><label for="fecha-descubrimiento"> 📅 Fecha de Descubrimiento: </label>
+            <input type="date" id="fecha-descubrimiento" name="fecha-descubrimiento"></p>
+
+            <p><label for="sintomas"> 🤒 Principales Síntomas: *</label>
+            <textarea id="sintomas" name="sintomas" placeholder="Describa los síntomas principales..." required></textarea></p>
+
+            <p><label for="mortalidad"> ☠️Tasa de Mortalidad (%): Indique un porcentaje entre 0 y 100 *</label>
+            <input type="number" id="mortalidad" name="mortalidad" min="0" max="100" step="1" placeholder="Ejemplo: 45" required></p>
+
+            <p><label for="gravedad"> 🎨 Tasa de Gravedad (Elija un color representativo):</label>
+            <input type="color" id="gravedad" name="gravedad" value="#ff0000"></p>
+
+            <p><label for="paises-afectados"> 🌍 Número de Países Afectados: </label>
+            <input type="number" id="paises-afectados" name="paises-afectados" min="1" placeholder="Ejemplo: 15"></p>
+
+            <p><label for="email"> 📨 Correo Electrónico para Contacto: *</label>
+            <input type="email" id="email" name="email" placeholder="Ejemplo: usuario@correo.com" required></p>
+
+            <p><label for="observaciones"> 📝 Observaciones (Opcional):</label>
+            <textarea id="observaciones" name="observaciones" placeholder="Cualquier información adicional que desee proporcionar..."></textarea></p>
+
+            <input type="submit" value="enviar">
+        </form>
+    </main>
+    <footer>
+        <address>
+            <p>Veronica Martinez Byrdziak</p>
+            <p><a href="mailto:vmb35@alu.ua.es">vmb35@alu.ua.es</a></p>
+            <p><a href="../paginas/accesibilidad.html"> Declaración de accesibilidad</a></p>
+            <p><a href="../mapa.html"> Mapa del sitio web</a></p>
+            <p>Universidad de Alicante</p>
+        </address>
+    </footer>
+
+</body>
+</html>
